@@ -1,11 +1,9 @@
-### Hi there 👋
-
 <h1 align="center">Hi, I'm Jorgo Foto</h1>
 <h3 align="center">A student of Hive Helsinki.</h3>
 
-- 🌱 I’m currently learning **C++, microcontrollers.**
+- I’m currently learning **C++ and microcontrollers.**
 
-- 📫 How to reach me **fotojorgo@gmail.com**
+- How to reach me **fotojorgo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
